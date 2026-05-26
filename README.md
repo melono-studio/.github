@@ -1,3 +1,3 @@
 # Melono
 ___
-### We make stuff for fun, because why not?
+### This is the .github thing
